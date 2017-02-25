@@ -1,0 +1,16 @@
+{
+  "name": "first_steps_mongoose",
+  "version": "0.0.1",
+  "description": "First steps with Mongoose",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "*",
+    "chart.js": "^2.5.0",
+    "compression": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "gulp": "*",
+    "gulp-clean-css": "*",
+    "gulp-less": "*"
+  }
+}

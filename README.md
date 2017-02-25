@@ -1,2 +1,2 @@
-# metrics
-Dashboard for company metrics
+# learning-management-system
+A website for teachers, students and administrators.
